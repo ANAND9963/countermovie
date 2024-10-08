@@ -1,0 +1,23 @@
+body{
+    background: thistle;
+    margin: 5rem;
+    color: black;
+    padding: 10px;
+   
+
+}
+.counter_container{
+    margin: 100px;
+    border: 2px teal;
+ }
+
+li{
+    list-style: none;
+    margin-bottom:  1rem ;
+}
+
+input{
+    margin-bottom: 100px;
+    color: blue;
+    height: 20px;
+}
